@@ -8,11 +8,13 @@ This repository contains diagrams of popular software systems and components.
 ## List of Diagrams
 
 ### Services
-| About                | Diagram                                                                | Source                                              |       
-|----------------------|------------------------------------------------------------------------|-----------------------------------------------------| 
-| News Feed            | <img src="./services/image/NewsFeed.png" width="200" height="100">     | [System Design By Alex Xu](https://bytebytego.com/) | 
-| Notification         | <img src="./services/image/Notification.png" width="200" height="100"> | [System Design By Alex Xu](https://bytebytego.com/) |
-| Rate Limiter         | <img src="./services/image/RateLimiter.png" width="200" height="100">  | [System Design By Alex Xu](https://bytebytego.com/) |
+| About               | Diagram                                                                      | Source                                              |       
+|---------------------|------------------------------------------------------------------------------|-----------------------------------------------------| 
+| News Feed           | <img src="./services/image/NewsFeed.png" width="200" height="100">           | [System Design By Alex Xu](https://bytebytego.com/) | 
+| Notification        | <img src="./services/image/Notification.png" width="200" height="100">       | [System Design By Alex Xu](https://bytebytego.com/) |
+| Rate Limiter        | <img src="./services/image/RateLimiter.png" width="200" height="100">        | [System Design By Alex Xu](https://bytebytego.com/) |
+| Chat System         | <img src="./services/image/ChatSystem.png" width="200" height="100">         | [System Design By Alex Xu](https://bytebytego.com/) |
+| Autocomplete System | <img src="./services/image/AutoCompleteSystem.png" width="200" height="100"> | [System Design By Alex Xu](https://bytebytego.com/) |
 
 ### Cloud Native Components
 | About        | Diagram                                                                  | Source                                                                                                                                                         |       
