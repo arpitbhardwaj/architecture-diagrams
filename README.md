@@ -20,11 +20,11 @@ This repository contains diagrams of popular software systems and components.
 | Proximity       | Google Maps, Yelp            | <img src="./services/image/Proximity.png" width="200" height="100">          | [System Design By Alex Xu](https://bytebytego.com/) |
 
 ### Cloud Native Components
-| About                     | Diagram                                                                  | Source                                                                                                                                                         |       
-|---------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| k8s                       | <img src="./cloudnative/image/k8s.png" width="200" height="100">         | [Blog](https://medium.com/devops-mojo/kubernetes-architecture-overview-introduction-to-k8s-architecture-and-understanding-k8s-cluster-components-90e11eb34ccd) | 
-| Service Mesh              | <img src="./cloudnative/image/ServiceMesh.png" width="200" height="100"> | [Official Website](https://istio.io/latest/docs/ops/deployment/architecture/)                                                                                  |
-| Distributed Message Queue | Coming Soon...                                                           | [System Design By Alex Xu](https://bytebytego.com/)                                                                                                            |
+| About           | Diagram                                                                   | Source                                                                                                                                                         |       
+|-----------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| k8s             | <img src="./cloudnative/image/k8s.png" width="200" height="100">          | [Blog](https://medium.com/devops-mojo/kubernetes-architecture-overview-introduction-to-k8s-architecture-and-understanding-k8s-cluster-components-90e11eb34ccd) | 
+| Service Mesh    | <img src="./cloudnative/image/ServiceMesh.png" width="200" height="100">  | [Official Website](https://istio.io/latest/docs/ops/deployment/architecture/)                                                                                  |
+| Message Queue   | <img src="./cloudnative/image/MessageQueue.png" width="200" height="100"> | [System Design By Alex Xu](https://bytebytego.com/)                                                                                                            |
 
 ## Contributing
 Have you built certain architecture diagrams with draw.io which you would like to share with everyone? You're welcome to contribute with a pull request! (Credits will be given to you)
