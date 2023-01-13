@@ -8,16 +8,17 @@ This repository contains diagrams of popular software systems and components.
 ## List of Diagrams
  
 ### Services
-| About           | Example                      | Diagram                                                                      | Source                                              |       
-|-----------------|------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------| 
-| News Feed       | Twitter,Facebook Home Page   | <img src="./services/image/NewsFeed.png" width="200" height="100">           | [System Design By Alex Xu](https://bytebytego.com/) | 
-| Notification    |                              | <img src="./services/image/Notification.png" width="200" height="100">       | [System Design By Alex Xu](https://bytebytego.com/) |
-| Rate Limiter    |                              | <img src="./services/image/RateLimiter.png" width="200" height="100">        | [System Design By Alex Xu](https://bytebytego.com/) |
-| Chat System     | Whatsapp, Facebook Messenger | <img src="./services/image/ChatSystem.png" width="200" height="100">         | [System Design By Alex Xu](https://bytebytego.com/) |
-| Autocomplete    |                              | <img src="./services/image/AutoCompleteSystem.png" width="200" height="100"> | [System Design By Alex Xu](https://bytebytego.com/) |
-| Video Streaming | Youtube                      | <img src="./services/image/VideoStreaming.png" width="200" height="100">     | [System Design By Alex Xu](https://bytebytego.com/) |
-| Cloud Storage   | Google Drive, Dropbox        | <img src="./services/image/CloudStorage.png" width="200" height="100">       | [System Design By Alex Xu](https://bytebytego.com/) |
-| Proximity       | Google Maps, Yelp            | <img src="./services/image/Proximity.png" width="200" height="100">          | [System Design By Alex Xu](https://bytebytego.com/) |
+| About                   | Example                      | Diagram                                                                                | Source                                              |       
+|-------------------------|------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------| 
+| News Feed               | Twitter,Facebook Home Page   | <img src="./services/image/NewsFeed.png" width="200" height="100">                     | [System Design By Alex Xu](https://bytebytego.com/) | 
+| Notification            |                              | <img src="./services/image/Notification.png" width="200" height="100">                 | [System Design By Alex Xu](https://bytebytego.com/) |
+| Rate Limiter            |                              | <img src="./services/image/RateLimiter.png" width="200" height="100">                  | [System Design By Alex Xu](https://bytebytego.com/) |
+| Chat System             | Whatsapp, Facebook Messenger | <img src="./services/image/ChatSystem.png" width="200" height="100">                   | [System Design By Alex Xu](https://bytebytego.com/) |
+| Autocomplete            |                              | <img src="./services/image/AutoCompleteSystem.png" width="200" height="100">           | [System Design By Alex Xu](https://bytebytego.com/) |
+| Video Streaming         | Youtube                      | <img src="./services/image/VideoStreaming.png" width="200" height="100">               | [System Design By Alex Xu](https://bytebytego.com/) |
+| Cloud Storage           | Google Drive, Dropbox        | <img src="./services/image/CloudStorage.png" width="200" height="100">                 | [System Design By Alex Xu](https://bytebytego.com/) |
+| Proximity               | Google Maps, Yelp            | <img src="./services/image/Proximity.png" width="200" height="100">                    | [System Design By Alex Xu](https://bytebytego.com/) |
+| Monitoring And Alerting |                              | <img src="./services/image/MetricsMonitoringAndAlerting.png" width="200" height="100"> | [System Design By Alex Xu](https://bytebytego.com/) |
 
 ### Cloud Native Components
 | About           | Diagram                                                                   | Source                                                                                                                                                         |       
